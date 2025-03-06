@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#169955</color>
+    <color name="lightGrey">#EFEFEF</color>
+    <color name="grey">#d2d2d2</color>
+    <color name="darkGrey">#616161</color>
+    <color name="lavender">#8692f7</color>
+    <color name="DarkBlue">#C4DFE6</color>
+    <color name="lightBLue">#66A5AD</color>
+    <color name="purple">#8692f7</color>
+    <color name="brown">#A07C74</color>
+    <color name="gray">#B5BCC2</color>
+    <color name="policeblue">#3A5667</color>
+
+    <color name="maatricht_blue">#031926</color>
+    <color name="tealBlue">#468189</color>
+    <color name="GreenShean">#77ACA2</color>
+    <color name="CambridgeBlue">#9DBEBB</color>
+    <color name="CHAMPANGE">#F4E9CD</color>
+</resources>
